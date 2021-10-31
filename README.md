@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Laravel, VueJS**
 
-- ⚡ Fun fact: **I have a Rubiks cube collection, I love solving them. I also love learning Languages (I speak Spanish and English)**
+- ⚡ Fun fact **I have a Rubiks cube collection, I love solving them. I also love learning Languages (I speak Spanish and English)**
 
 <div align="center">
   <img width="300" src="https://media3.giphy.com/media/3orieRlHJOwAaBrbzy/giphy.gif?cid=790b761178e4f7c334f72d6531ad1b15f83a555e144f877e&rid=giphy.gif&ct=g" />
