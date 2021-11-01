@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Juan Atehortua</h1>
-<h3>A passionate full stack developer from Colombia 🇨🇴, currently residing in Miami, FL.</h3>
+<h3>A passionate full stack developer from Colombia 🇨🇴, residing in Miami, FL.</h3>
 
 - 🌱 I’m currently learning **React, Tailwindcss**
 
