@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Juan Atehortua</h1>
-<h3>A passionate full stack developer from Colombia 🇨🇴, residing in Miami, FL.</h3>
+<h3>A passionate full stack developer from Colombia residing in Miami, FL.</h3>
 
-- 🌱 I’m currently learning **React, Tailwindcss**
+- 🌱 I’m currently learning **Golang** and **C# / Dotnet 8**
 
-- 💬 Ask me about **Laravel, VueJS**
+- 💬 Ask me about **Laravel, VueJS, React/Next, Mobile Development, Golang**
 
 - ⚡ Fun fact **I have a Rubiks cube collection, I love solving them. I also love learning Languages (I speak Spanish, English, and Italian)**
 
